@@ -92,6 +92,3 @@ public class TheaterSeating2D {
     }
 }
 ```
-
----
-
