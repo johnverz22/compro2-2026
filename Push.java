@@ -18,9 +18,9 @@ public class Push {
 
             run("git", "commit", "-m", commitMessage);
 
-            run("git", "pull", "--rebase");
+            run("git", "pull", "--rebase", "origin", "main");
 
-            run("git", "push");
+            run("git", "push", "origin", "main");
 
             System.out.println("Push complete.");
 
