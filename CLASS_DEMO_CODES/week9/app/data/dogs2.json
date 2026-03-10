@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Scooby Jess",
+    "breed": "Belgian waffles",
+    "age": 5,
+    "color": "Mink"
+  },
+  {
+    "name": "Luwi",
+    "breed": null,
+    "age": 5,
+    "color": "Black"
+  }
+]

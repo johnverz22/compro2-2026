@@ -1,11 +1,13 @@
 package com.johnverz.model;
 
+import com.google.gson.annotations.SerializedName;
 
 /**
  * This class is used to represent a Dog object
  * @author John Verz
  */
 public class Dog {
+    //@SerializedName("Name")
     private String name;
     public String getName() {
         return name;

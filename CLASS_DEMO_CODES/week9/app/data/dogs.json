@@ -1,0 +1,20 @@
+[    
+    {
+        "name": "Butter",
+        "breed": "Aspin",
+        "age": 4,
+        "color": "White"
+    },
+    {
+        "name": "Brownie",
+        "breed": "Corgi",
+        "age": 4,
+        "color": "Brown"
+    },
+    {
+        "name": "Whitey",
+        "breed": "Shiba Inu",
+        "age": 4,
+        "color": "Cream"
+    }
+]
