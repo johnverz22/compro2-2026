@@ -129,3 +129,14 @@ public class NetworkService {
     
 
 }
+
+
+/*
+Connect using socket
+create output stream from socket
+create input stream
+
+send request using the output stream
+receive response using the input stream
+
+*/
