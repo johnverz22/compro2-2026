@@ -1,0 +1,7 @@
+Activity 10
+
+Rework on the hangman game. Add
+A game server that accepts user guesses using a client program.
+Let the server check the guesses and do the scoring. Save scores the server.
+
+Use service classes to handle program logics.

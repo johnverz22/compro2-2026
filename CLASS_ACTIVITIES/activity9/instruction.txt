@@ -1,0 +1,11 @@
+Activity 9
+
+Rework your hangman program. 
+Save in texts (.txt) file your random strings and read from it
+RandomString
+RandomString
+...
+
+Save user data and scores too in JSON file and allow existing user to sign in
+
+Let new users sign up.
