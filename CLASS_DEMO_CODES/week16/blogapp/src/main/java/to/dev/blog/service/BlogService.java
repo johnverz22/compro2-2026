@@ -23,6 +23,7 @@ public class BlogService {
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create("https://dev.to/api/articles"))
                 .header("Accept", "application/json")
+                .header("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
                 .GET()
                 .build();
         
